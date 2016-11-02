@@ -6,3 +6,5 @@ This project enables us to learn source code control using Git.
 To have code we can use for hands on exercises.
 ##Conflict on Master
 This section will be different on the conflictbranch1.
+##Method 
+How will we resolve this conflict, since the "base" now has a conflict in it?
